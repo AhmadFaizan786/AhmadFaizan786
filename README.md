@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadfaizan786" alt="ahmadfaizan786" /></a> </p>
 
-- 🔭 I’m currently working on **several frontend projects.**
+- 🔭 I’m currently working on **several projects.**
 
 - 🌱 I’m currently exploring **React.js,**
 
