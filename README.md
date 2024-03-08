@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Faizan Ahmad</h1>
-<h3 align="center">A passionate frontend developer from lucknow,India</h3>
+<h3 align="center">a final year computer science engineering student and a passionate frontend developer from lucknow,India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadfaizan786" alt="ahmadfaizan786" /></a> </p>
 
-- 🔭 I’m currently working on **e-commerce frontend clone**
+- 🔭 I’m currently working on **several frontend projects.**
 
-- 🌱 I’m currently learning **React.js,**
+- 🌱 I’m currently exploring **React.js,**
 
 - 👨‍💻 All of my projects are available at [https://vercel.com/faizan-ahmads-projects-11324d24](https://vercel.com/faizan-ahmads-projects-11324d24)
 
