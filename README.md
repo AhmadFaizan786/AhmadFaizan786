@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Faizan Ahmad,</h1>
 <h3 align="center">a final year computer science engineering student and a passionate frontend developer based in lucknow,India.</h3>
-<h1 align="center">About me </h1>
-<h3 align="center"> I'm deeply fascinated by the intersection of technology and creativity, with a keen interest in crafting intuitive user experiences through frontend development. Currently, I'm exploring various frameworks and tools to enhance my skills and stay updated with the latest trends in web development.
+<h1 align="left">About me </h1>
+<h3 align="left"> I'm deeply fascinated by the intersection of technology and creativity, with a keen interest in crafting intuitive user experiences through frontend development. Currently, I'm exploring various frameworks and tools to enhance my skills and stay updated with the latest trends in web development.
 </h3>
 
-<h1 align="center"> ## Skills</h1>
+<h1 align="left">Skills</h1>
 <p>
 - Proficient in HTML5, CSS3, JavaScript and responsive web development <br>
 - Currently learning and exploring React.js, steadily growing day by day <br>
@@ -17,7 +17,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadfaizan786" alt="ahmadfaizan786" /></a> </p>
 
 
-- 🌱 I’m currently exploring **React.js,**
+- 🌱 I’m currently exploring **MERN**
 
 - 👨‍💻 All of my projects are available at [https://vercel.com/faizan-ahmads-projects-11324d24](https://vercel.com/faizan-ahmads-projects-11324d24)
 
